@@ -1,0 +1,129 @@
+{
+  "GuideData": {
+    "AdsController": 
+      {
+        "BannerAd": "admob",
+		"InterstitialAd": "admob",
+        "NativeAd": "admob",
+		
+		"BannerAdmob": "ca-app-pub-2120403233975259/6405456823",
+        "InterstitialAdmob": "ca-app-pub-2120403233975259/3779293482",
+        "NativeAdmob": "ca-app-pub-2120403233975259/8825103584",
+
+        "BannerFacebook": "",
+        "InterstitialFacebook": "",
+        "NativeFacebook": "",
+
+		"maxBanner": "f7a5525108c00ac0A",
+		"maxInterstitial": "5fa0efbeea673f05A",
+		"maxNative": "bf83265395b54ba8A",
+		
+		"ironsource_appKey": "",
+		
+		"unity_game_id": "5093735",
+		"unity_test": false,
+		"unity_banner": "Banner_Android",
+		"unity_interstitial": "Interstitial_Android",
+
+        "ImageBanner": false,
+        "ImageBannerImg" : "",
+        "ImageBannerURL" : ""
+		
+      },
+
+    "items": [
+      {
+        "title": "Sakura School Simulator Beginners Guide and Tips",
+        "image": "https://i0.wp.com/gamingonphone.com/wp-content/uploads/2021/02/Sakura-School-Simulator.jpg",
+        "color": "#000000",
+        "text_size": "25",
+        "isLink": false,
+		"link_title": "",
+		"setLink": "",
+        "image_link": "",
+        "text": "With five playable characters, both male and female available, this game is perfect for anyone. The mobile game is played in a little fictional Sakura town",
+        "isNative": false,
+		"background": "#FFFFFF"
+      },
+      {
+        "title": "Sakura School Simulator Beginners Guide and Tips",
+        "image": "https://i0.wp.com/gamingonphone.com/wp-content/uploads/2021/02/Sakura-School-Simulator.jpg",
+        "color": "#000000",
+        "text_size": "25",
+        "isLink": false,
+		"link_title": "",
+		"setLink": "",
+        "image_link": "",
+        "text": "With five playable characters, both male and female available, this game is perfect for anyone. The mobile game is played in a little fictional Sakura town",
+        "isNative": false,
+		"background": "#FFFFFF"
+      },
+      {
+        "title": "Sakura School Simulator Beginners Guide and Tips",
+        "image": "https://i0.wp.com/gamingonphone.com/wp-content/uploads/2021/02/Sakura-School-Simulator.jpg",
+        "color": "#000000",
+        "text_size": "25",
+        "isLink": false,
+		"link_title": "",
+		"setLink": "",
+        "image_link": "",
+        "text": "With five playable characters, both male and female available, this game is perfect for anyone. The mobile game is played in a little fictional Sakura town",
+        "isNative": false,
+		"background": "#FFFFFF"
+      },
+      {
+        "title": "Sakura School Simulator Beginners Guide and Tips",
+        "image": "https://i0.wp.com/gamingonphone.com/wp-content/uploads/2021/02/Sakura-School-Simulator.jpg",
+        "color": "#000000",
+        "text_size": "25",
+        "isLink": false,
+		"link_title": "",
+		"setLink": "",
+        "image_link": "",
+        "text": "With five playable characters, both male and female available, this game is perfect for anyone. The mobile game is played in a little fictional Sakura town",
+        "isNative": false,
+		"background": "#FFFFFF"
+      },
+     {
+        "title": "Sakura School Simulator Beginners Guide and Tips",
+        "image": "https://i0.wp.com/gamingonphone.com/wp-content/uploads/2021/02/Sakura-School-Simulator.jpg",
+        "color": "#000000",
+        "text_size": "25",
+        "isLink": false,
+		"link_title": "",
+		"setLink": "",
+        "image_link": "",
+        "text": "With five playable characters, both male and female available, this game is perfect for anyone. The mobile game is played in a little fictional Sakura town",
+        "isNative": false,
+		"background": "#FFFFFF"
+      },
+      {
+        "title": "Sakura School Simulator Beginners Guide and Tips",
+        "image": "https://i0.wp.com/gamingonphone.com/wp-content/uploads/2021/02/Sakura-School-Simulator.jpg",
+        "color": "#000000",
+        "text_size": "25",
+        "isLink": false,
+		"link_title": "",
+		"setLink": "",
+        "image_link": "",
+        "text": "With five playable characters, both male and female available, this game is perfect for anyone. The mobile game is played in a little fictional Sakura town",
+        "isNative": false,
+		"background": "#FFFFFF"
+      },
+      {
+        "title": "Sakura School Simulator Beginners Guide and Tips",
+        "image": "https://i0.wp.com/gamingonphone.com/wp-content/uploads/2021/02/Sakura-School-Simulator.jpg",
+        "color": "#000000",
+        "text_size": "25",
+        "isLink": false,
+		"link_title": "",
+		"setLink": "",
+        "image_link": "",
+        "text": "With five playable characters, both male and female available, this game is perfect for anyone. The mobile game is played in a little fictional Sakura town",
+        "isNative": false,
+		"background": "#FFFFFF"
+      }
+    ]
+
+  }
+}
